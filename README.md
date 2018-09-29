@@ -12,4 +12,5 @@ ACCESS TO EXTERNAL STORAGE
 
 
 Legal information
+
 This privacy policy relates solely to this Application.
